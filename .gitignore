@@ -1,0 +1,5 @@
+.idea
+local/
+dist/
+*.lnk
+*.bat
